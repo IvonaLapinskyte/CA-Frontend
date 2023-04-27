@@ -1,0 +1,31 @@
+
+body{
+    background-color: #f6d7b0;
+}
+
+#main{
+    position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  border: 1px solid;
+}
+
+
+#log{
+    background-color: black;
+    color: white;
+    height: 40px;
+    width: 100px;
+    border-radius: 15px;
+    margin-right: 5px;
+}
+
+#sing{
+    background-color: black;
+    color: white;
+    height: 40px;
+    width: 100px;
+    border-radius: 15px;
+    margin-left: 5px;
+}
